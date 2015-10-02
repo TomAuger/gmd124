@@ -80,5 +80,13 @@ Shouldn't we just try to be original and approach the solution a priori?
 
 ---
 
-# Trends (2015)
+# Trend vs. Treatment
+
+## Trend (2010)
+
+![Pixellation](img/pixel.jpg)
+
+![Hex](img/hexahedron.jpg)
+
+![Cubism](img/cubist.jpg)
 
