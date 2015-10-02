@@ -42,3 +42,7 @@ Discussion:
 Imitation is the 
 sincerest form of flattery
 ```
+
+---
+
+# Trends 2015
