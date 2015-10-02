@@ -45,4 +45,40 @@ sincerest form of flattery
 
 ---
 
-# Trends 2015
+# Should we even care about trends?
+
+Shouldn't we just try to be original and approach the solution a priori?
+
+---
+
+# The Value of Trends
+
+* Understand the Zeitgeist
+* Logo feels current
+* Client feels "hip"
+* When appropriate, trends are a quick "shorthand"
+
+
+---
+
+# Use Trends Appropriately
+
+* Look for inspiration, not treatment
+* When did a trend solve the problem?
+* Think holistically - not just logo design
+* What are the "macro" trends? How do they apply?
+
+---
+
+# Trend vs. Treatment
+
+## Treatment
+
+![Contours](img/trend-02.png)
+
+![Tesselation](img/tessellation-2012.jpg)
+
+---
+
+# Trends (2015)
+
